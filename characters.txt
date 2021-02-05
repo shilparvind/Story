@@ -1,0 +1,12 @@
+Writing characters:
+
+Lion
+Lioness
+Monkey
+Crocodile
+Rabbit
+Elephant
+Tortise
+Camel
+Horse
+
