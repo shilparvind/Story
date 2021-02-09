@@ -8,6 +8,7 @@ i am making changes now. Lets use the gitbash commands now and see the differenc
 
 Will make changes to this story. First i will do checkout and then will create a branch.
 
+I am making changes to the story remotely. 
 
 
 
