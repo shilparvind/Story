@@ -7,11 +7,9 @@ UFF UFF UFF UFF UFF UFF
 
 I am making changes now. Lets use the gitbash commands now and see the difference. 
 
-<<<<<<< HEAD
 Will make changes to this story. First i will do checkout and then will create a branch.
-=======
+
 I am making changes to the story remotely. 
->>>>>>> c43e41df61989135c03874b60456440e95e2d061
 
 Making changes without pull command
 
