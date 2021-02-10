@@ -13,4 +13,7 @@ I am making changes to the story remotely.
 
 Making changes without pull command
 
+I could see errors. I fixed it by using add, then commit. It worked. 
+SO if the remote is ahead, first pull and then push the local directory changes.
+Use git status to see if remote is ahead to local repository. 
 
