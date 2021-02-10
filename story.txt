@@ -4,10 +4,11 @@ Got my Wacom tablet today. No clue what it is.
 Need to prepare for Demo 3. 
 Uff never ending learing process.
 UFF UFF UFF UFF UFF UFF
-i am making changes now. Lets use the gitbash commands now and see the difference. 
+
+I am making changes now. Lets use the gitbash commands now and see the difference. 
 
 Will make changes to this story. First i will do checkout and then will create a branch.
 
-
+Making changes without pull command
 
 
